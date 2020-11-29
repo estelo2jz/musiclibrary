@@ -24,8 +24,6 @@
 </template>
 
 <script>
-// import AhoraM from './assets/'
-
 export default {
   name: 'app',
   data () {
