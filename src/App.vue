@@ -167,7 +167,7 @@ button:hover {
   margin: 0px 15px;
   border-radius: 6px;
   color: #FFF;
-  background-color: #FF5858;
+  background-color: #74ff58;
 }
 .playlist {
   padding: 0px 30px;
@@ -188,10 +188,10 @@ button:hover {
   cursor: pointer;
 }
 .playlist .song:hover {
-  color: #FF5858;
+  color: #f158ff;
 }
 .playlist .song.playing {
   color: #FFF;
-  background-image: linear-gradient(to right, #CC2E5D, #FF5858);
+  background-image: linear-gradient(to right, #9a2ecc, #e22aca);
 }
 </style>
